@@ -25,7 +25,7 @@
 	"name": "selector",
 	"templateKeyName": [
 		"selector"
-	],
+	]
 	"required": "true",
 	"category": "config",
 	"type": "text"

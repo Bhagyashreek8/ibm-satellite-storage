@@ -23,7 +23,7 @@ items:
       backendType: "ontap-nas"
       selector: "performance=silver"
   - apiVersion: storage.k8s.io/v1
-    kind: 
+    kind: StorageClass
     metadata:
       name: sat-netapp-file-bronze
     provisioner: csi.trident.netapp.io

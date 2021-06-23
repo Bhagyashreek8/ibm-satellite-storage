@@ -1,10 +1,4 @@
-apiVersion: v1
-kind: List
-metadata:
-  name: netapp-trident-nas
-  namespace: kube-system
-  annotations:
-    version: 20.07
+
 items:
   - apiVersion: v1
     kind: Pod

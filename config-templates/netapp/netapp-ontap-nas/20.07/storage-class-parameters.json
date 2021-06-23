@@ -19,7 +19,7 @@
 	"required": "false",
 	"category": "config",
 	"type": "text"
-  } {
+  }, {
 	"description": "The Selector label.",
 	"displayname": "Selector",
 	"name": "selector",

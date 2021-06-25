@@ -12,7 +12,7 @@
     }, {
       "name": "template-dependency-description",
       "value": "Install netapp-trident before installing ontap-nas driver."
-    }, {
+    }, 
       "name": "provider",
       "value": "netapp"
     }, {

@@ -5,7 +5,7 @@
     "name": "managementLIF",
     "required": "true",
     "category": "config"
-  }, {
+  } {
     "description": "The IP address of the Data LIF.",
     "displayname": "Data LIF",
     "name": "dataLIF",

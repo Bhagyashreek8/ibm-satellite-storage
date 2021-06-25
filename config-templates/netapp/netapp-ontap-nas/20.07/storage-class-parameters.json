@@ -5,7 +5,7 @@
 	"name": "name",
 	"templateKeyName": [
 		"name"
-	],
+	]
 	"required": "true",
 	"category": "config"
   }, {
